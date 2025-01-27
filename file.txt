@@ -1,6 +1,12 @@
 Hello! This is my first text file. 
 
-Oh my goshhhh it finally worked! I messed up my original push/pull/local to git sync by creating a Read Me File in Github.
+1/26/2025 
+
+<h1> Troubleshooting Diverging Branches Error messages
+<h1>
+
+<p>  
+It finally worked! I messed up my original push/pull/local to git sync by creating a Read Me File in Github.
 Seems by doing this, I created a conflict. 
 
 The terminal kept pulling up a messages re: two branches causing conflict. 
@@ -29,3 +35,4 @@ https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-his
 https://graphite.dev/guides/how-to-resolve-git-error-refusing-to-merge-unrelated-histories
 https://stackoverflow.com/questions/13361729/found-a-swap-file-by-the-name
 
+<p>
