@@ -1,1 +1,31 @@
 Hello! This is my first text file. 
+
+Oh my goshhhh it finally worked! I messed up my original push/pull/local to git sync by creating a Read Me File in Github.
+Seems by doing this, I created a conflict. 
+
+The terminal kept pulling up a messages re: two branches causing conflict. 
+
+Then I attempted using the commands to merge histories --allow-unrelated-histories. 
+
+Terminal then pulled up a message requesting me to add message before commiting, but then I seemed stuck in a loop.
+Couldn't close out of the 'message' state in the terminal, so after some Googling, was able to figure out that
+I could 'control Z' on Mac terminal and return to command line. 
+
+Once on the command line kept attempting 'git merge' 'git pull' 'git push', kept returning error messaging regarding that there
+was a merge in process. 
+
+Somehow was able to decipher from the messaging that I needed to go back to VS Studio and accept the commit, which 
+was what was causing ANOTHER error re: a 'swap' file (I think because I closed out of the 'message'state in the terminal?)
+
+LOL. I am very glad I did not give up - even though initially receiving that first message 5 min. into the course video was
+a little disheartening. Good to know/good excersise to just keep reading the terminal error messages, and use the 
+online message boards to troubleshoot. Seems I am not good to go/connected 🎉
+
+Resources I used:
+
+https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first
+https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
+https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase
+https://graphite.dev/guides/how-to-resolve-git-error-refusing-to-merge-unrelated-histories
+https://stackoverflow.com/questions/13361729/found-a-swap-file-by-the-name
+
